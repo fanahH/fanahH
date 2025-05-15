@@ -24,7 +24,7 @@ The AVER Lab is dedicated to applying advanced epidemiologic techniques to under
 ---
 
 ## Connect with Us
-- 📧 Email: your.email@institution.edu  
+- 📧 Email: fhagos@nyu.edu 
 - 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
 
 Thanks for visiting!  
