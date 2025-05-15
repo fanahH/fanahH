@@ -1,16 +1,32 @@
-## Hi there 👋
+ # Welcome to the AVER Lab 👋
 
-<!--
-**fanahH/fanahH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied Vascular Epidemiology Research (AVER) Lab**  
+Bridging clinical insights and population health to advance vascular outcomes through rigorous epidemiologic methods and translational analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Mission
+The AVER Lab is dedicated to applying advanced epidemiologic techniques to understand, predict, and improve vascular health outcomes. We generate actionable evidence that informs clinical care and public health policy.
+
+---
+
+## What We Do
+- Vascular epidemiology research integrating clinical and population data  
+- Translational analytics through our VITAL program  
+- Collaborative projects advancing vascular disease prevention and management  
+
+---
+
+## Explore Our Work
+- 🌐 [Website (placeholder)](https://your-aver-lab-website-link.com)  
+- 📂 [GitHub Repositories](https://github.com/fanahH?tab=repositories)  
+
+---
+
+## Connect with Us
+- 📧 Email: your.email@institution.edu  
+- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+
+Thanks for visiting!  
+*— The AVER Lab Team*
+
