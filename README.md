@@ -1,4 +1,4 @@
- # Welcome to the AVER Lab 👋
+ # Applied clinical epidemiology 👋
 
 **Applied Vascular Epidemiology Research (AVER) Lab**  
 Bridging clinical insights and population health to advance vascular outcomes through rigorous epidemiologic methods and translational analytics.
@@ -6,7 +6,7 @@ Bridging clinical insights and population health to advance vascular outcomes th
 ---
 
 ## Our Mission
-The AVER Lab is dedicated to applying advanced epidemiologic techniques to understand, predict, and improve vascular health outcomes. We generate actionable evidence that informs clinical care and public health policy.
+Dedicated to applying advanced epidemiologic techniques to understand, predict, and improve vascular health outcomes. We generate actionable evidence that informs clinical care and public health policy.
 
 ---
 
